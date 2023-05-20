@@ -1,6 +1,6 @@
-# hoteld
+# BLE_scan
 
-STL_ELD
+#finds all BLE devices and recieves data
 
 ## Getting Started
 
